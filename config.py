@@ -3,9 +3,9 @@ from sqlalchemy.orm import sessionmaker
 
 
 CONFIG = [
-    'root',                          # Username
-    'password',                              # Password
-    'localhost',                     # Host
+    'root',              # Username
+    '',                  # Password
+    'localhost',         # Host
     'inventorydb'        # Database Name
 ]
 engine = create_engine(
