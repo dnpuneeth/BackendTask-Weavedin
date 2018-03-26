@@ -5,8 +5,8 @@
 - pipenv `pip install pipenv`
 
 # Setup
-- `git clone https://github.com/dnpuneeth/Backend-task-weavedin`
-- `cd Backend-task-weavedin`
+- `git clone https://github.com/dnpuneeth/BackendTask-weavedin`
+- `cd BackendTask-weavedin`
 - `vi config.py # Set Database, Username, Password`
 - `./setup-db`
 - ```py
