@@ -1,12 +1,13 @@
-# Backend-task-weavedin
+# InventoryManagement Application
+- Python, SqlAlchemy
 
 # Requirements
 - MySQL
 - pipenv `pip install pipenv`
 
 # Setup
-- `git clone https://github.com/dnpuneeth/BackendTask-weavedin`
-- `cd BackendTask-weavedin`
+- `git clone https://github.com/dnpuneeth/InventoryManagement-App`
+- `cd InventoryManagement-App`
 - `vi config.py # Set Database, Username, Password`
 - `./setup-db`
 - ```py
